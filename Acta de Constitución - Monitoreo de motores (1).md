@@ -2,7 +2,8 @@
 
 | Acta de constitución |   |   |   |
 | --- | --- | --- | --- |
-| Nombre del proyecto: |   | Monitoreo inteligente de motores (pendiente por nombre) |   |
+| Nombre del proyecto: Sistema IoT inteligente para el monitoreo y mantenimiento predictivo de motores      eléctricos.
+ |   |  |   |
 | Patrocinador: | merge-conflicts | Gerente del proyecto: | Yulieth Tatiana Rengifo |
 | Cliente: | Talleres, pequeñas industrias y laboratorios con motores eléctricos | Responsable: | merge-conflicts |
 | Fecha de inicio esperada: | 15/09/2026 | Fecha de finalización esperada: | 15/12/2026 |
