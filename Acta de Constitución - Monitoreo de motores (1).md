@@ -137,7 +137,8 @@ Entrega del 100 % de la documentación técnica, manual de arquitectura, código
 
 - Firmado por: 
 
-- **Pedro José López Quiroz**
+- *Pedro José López Quiroz*
+--
 
 - Estudiante de la universidad del valle
 - Codigo: 2359423
