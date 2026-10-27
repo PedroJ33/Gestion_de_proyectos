@@ -2,8 +2,7 @@
 
 | Acta de constitución |   |   |   |
 | --- | --- | --- | --- |
-| Nombre del proyecto: Sistema IoT inteligente para el monitoreo y mantenimiento predictivo de motores      eléctricos.
- |   |  |   |
+| Nombre del proyecto: | Sistema IoT inteligente para el monitoreo y mantenimiento predictivo de motores eléctricos. |
 | Patrocinador: | merge-conflicts | Gerente del proyecto: | Yulieth Tatiana Rengifo |
 | Cliente: | Talleres, pequeñas industrias y laboratorios con motores eléctricos | Responsable: | merge-conflicts |
 | Fecha de inicio esperada: | 15/09/2026 | Fecha de finalización esperada: | 15/12/2026 |
@@ -133,3 +132,10 @@ Entrega del 100 % de la documentación técnica, manual de arquitectura, código
 | HU- 06 | Como analista de mantenimiento, quiero consultar el historial de lecturas y eventos por rango de fechas, para identificar patrones y justificar decisiones de mantenimiento | • Se puede filtrar por fecha, variable y tipo de evento. • Se exporta el historial en formato CSV. • Los datos se conservan al menos durante el periodo del proyecto. | Media |
 | HU- 07 | Como jefe de mantenimiento, quiero ver un indicador de "salud del motor" con una estimación de vida útil restante, para planificar el mantenimiento antes de que ocurra la falla | • El indicador se expresa en porcentaje o escala de colores (verde/amarillo/rojo). • Se actualiza con cada ventana de inferencia del modelo. • Se muestra la tendencia de salud de los últimos 7 días. | Media |
 | HU- 08 | Como técnico de campo, quiero que el dispositivo guarde las lecturas localmente si se cae la red y las sincronice al reconectarse, para no perder datos ni eventos críticos durante cortes de conectividad | • El búfer local almacena como mínimo 30 min de telemetría. • Al restablecerse la conexión, los datos se envían en orden cronológico. • No se pierden eventos de alerta durante la desconexión. | Media |
+
+Firmado por: 
+
+**Pedro José López Quiroz**
+
+Estuante de la universidad del valle
+Codigo: 2359423
